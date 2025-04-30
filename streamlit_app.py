@@ -45,16 +45,16 @@ st.markdown('<div class="button-container">', unsafe_allow_html=True)
 
 # Each button displays a link or a message — you can replace with logic later
 if st.button("Gauss Theorem"):
-    st.markdown('[Open Gauss Theorem App](https://bilinear-math-project.streamlit.app/)', unsafe_allow_html=True)
+    st.markdown('[Open Gauss Theorem App](https://gauss-theorem.streamlit.app/)', unsafe_allow_html=True)
 
 if st.button("Stroke Theorem"):
-    st.markdown('[Open Stroke Theorem App](https://bilinear-math-project.streamlit.app/)', unsafe_allow_html=True)
+    st.markdown('[Open Stroke Theorem App](https://stokes-thereom-2osd5xdq7kr7xzaxx6gib9.streamlit.app/)', unsafe_allow_html=True)
 
 if st.button("Green Theorem"):
-    st.markdown('[Open Green Theorem App](https://bilinear-math-project.streamlit.app/)', unsafe_allow_html=True)
+    st.markdown('[Open Green Theorem App](https://greent-theo18.streamlit.app/)', unsafe_allow_html=True)
 
 if st.button("Bilinear Transformation"):
-    st.markdown('[Open Bilinear Transformation App](https://bilinear-math-project.streamlit.app/)', unsafe_allow_html=True)
+    st.markdown('[Open Bilinear Transformation App](https://tzub3vabklbvhrfbr2bs7w.streamlit.app/)', unsafe_allow_html=True)
 
 if st.button("Eigen Value and Eigen Vector"):
     st.markdown('[Open Eigen App](https://eigen-value-eigen-vector.streamlit.app/)', unsafe_allow_html=True)
